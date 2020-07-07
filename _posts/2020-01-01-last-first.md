@@ -44,7 +44,7 @@ To embed images first ensure that the file is at least 740px wide. Then place th
 
 To embed a full width image, you can also use the version below: 
 
-![description of image] <img src="template_site/images/sample_image.png" class="full-img" />
+![description of image] <img src="/images/sample_image.png" class="full-img" />
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
