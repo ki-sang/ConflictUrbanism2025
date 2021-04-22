@@ -30,6 +30,3 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
 
-#security update
-gem "kramdown", ">= 2.3.0"
-
