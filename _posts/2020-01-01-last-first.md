@@ -3,7 +3,7 @@ layout: post
 date:   2025-03-25
 image: "/template_site/images/csr_thumbnail.png"
 title:  "housing as *expansion/displacement* in addis ababa"
-author: "Fennet Habte & Ki-Sang Yi"
+author: "fennet habte & ki-sang yi"
 ---
 <h1>housing as *expansion/displacement* in addis ababa</h1>
 
