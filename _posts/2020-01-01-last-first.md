@@ -1,52 +1,63 @@
 ---
 layout: post
-date:   2020-01-01
+date:   2025-03-25
 image: "/template_site/images/csr_thumbnail.png"
-title:  "Template Post: Title of Your Final Project"
-author: "Names Of Everyone In Your Group"
+title:  "housing as *expansion/displacement* in addis ababa"
+author: "Fennet Habte & Ki-Sang Yi"
 ---
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
+<h1>housing as *expansion/displacement* in addis ababa</h1>
 
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
+*"INSERT QUOTE."*
 
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
+<h2>i. IHDP ++ addis</h2>
 
-#### Please use level 4 headings for major section divisions  
-(make sure to put two spaces after the end of the heading)
+Addis Ababa has been a place of many a visionary exercise. First designated as capital city of the empire in 18XX by emperor and queen Taitu, the place which was/and still is referred to as Finfinne by the indigenous Oromo inhabitants of the area has undergone restructuring and expansion under successive political regimes that sought to establish their political power and legacy in the city. Debelo and Soboka consider this “making, remaking, and unmaking of frontiers” as central to urban developmental visions of past and current political leadership in Ethiopia (p.709). The Integrated Housing Project, which is examined here, was established in the context of the 2005 Ethiopian election, which saw a loss of power for the EPRDF and protests demanding political change (Weldeghebrael, 2022, 3). The promise of infrastructure realized in the large-scale housing project, thus served as a way to regain political allegiance, legitimacy and propose an actionable  vision of a prosperous, orderly city (Terrefe, 2022, p.4). The IHDP project, which was initially conceptualized together with the German development agency, has since been lauded as a public housing project, financed solely by Ethiopian public resources, showcasing to “other African nations that Africa can solve its own problems” (Gardner). However, many housing lottery-winners were unable to afford the down-payment without the support of wealthier relatives or family in the diaspora. The IHDP condominium program sought to both build up housing stock in the supposedly “underutilized” periphery of the city and redevelop informal inner-city settlements, making them accessible to public and private developments. With over a hundred sites through the city and its periphery, the condominiums are estimated to occupy 11 percent of Addis Ababa's land area, thereby significantly changing the city’s urban fabric.
 
-Write **words in bold** like this.  
+<div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisHousing-ExpansionDisplacement/AddisCondoPoints.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
+<h6>Condominium locations scrapped from OpenStreetMap and Google Places API and their typologies. As a user-contributed list, this dataset does not include all condominium projects in Addis Ababa. Visitors are encouraged to roam around to look for unaccounted condominium projects in the inner city and the peripheries.</h6>
 
-Italics are *similar* and are formatted like this.  
+The re-development of the inner-city, partially to build condominiums, but more often to allow for private re-development, has caused the demolishing of 392 ha of inner-city informal housing and the displacement of 23,151 households by the end of 2015 (UN-Habitat, 2017, 55). The project was, and continues to be successful at increasing formal housing stock, and enabling home-ownership for low-and middle income households. However, research has shown that the urban poor who were identified as the primary target audience were often barely able to make the down-payment let alone their mortgage. Over the past two decades we have thus seen a phenomenon of low-income condominium apartment owners renting to middle-class tenants to finance their mortgage, while they themselves continue to live in informal, precarious housing in the inner city (Planel & Bridonneau, 2017, p.32; UN Habitat, 2011, p.19). Additionally, the relocations were conducted with little community input, at times purposefully separating inner-city communities, who had been deemed sites of opposition protest. Condominium residents experienced a loss of social networks and faced increased time and cost barriers for accessing work opportunities in the city center. The condominium sites themselves, resembling post-war European housing blocks, were built with little regard to common cultural use patterns and fostering community gathering. While some condominium sites have developed into lively and bustling neighborhoods, many residents report a sense of loneliness and anonymity from life in the condominiums.
 
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
+<h2>ii. addis urbanism ++ aspirations of modernity</h2>
 
-See this is now a new paragraph.  
+*"Money is power. Only those who have economic capacity can be heard and have the ‘right’ to live at the centre. But those who do not have power have no chance except to be thrown away outside where no basic facilities are fulfilled."* (Older informant, relocated from the city-center, Abebe & Hesselberg, 2015, p. 557)
 
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
+The inner-city redevelopments that sought to both formalize housing and usher in a new era of modern, flashy developments, served both  to allow for easier governing of inner-city populations, deemed troublesome, unruly and hotbeds of political dissidents after the 2005 post-election protests, and created an agreeable environment for foreign- and diaspora developers in prime real estate locations (Weldeghebrael, 2022, 4). The first inner-city site to be re-developed into an IHDP site was in the Lideta neighborhood, which according to government officials was selected due to the belief that “there was a huge concentration of Coalition for Unity and Democracy (CUD)11 2005 election campaigners and subsequent protest mobilizers” (Weldeghebrael,2022, 6). Residents of informal inner-city neighborhoods were often strategically divided up and scattered across five to twelve different condominiums at the city’s peripheries, severing existing social networks (ibid.). The strategic spatial dispersion of former inner-city residents deemed troublesome allowed the IHDP to act as a mechanism of enacting control and repress potential counter-government organizing.
 
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
+<h3>beautifying the inner city</h3>
 
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
+Inner city beautification has taken on a new coat today with Prime minister Abiy’s Dubai-like development exercises aimed at attracting foreign capital and diaspora involvement, cementing Addis Ababs legacy as diplomatic capital of Africa. While this can be understood as a move away from EPRDF pro-poor framing of urban development, it is important to note that despite the pro-poor policy framing of the condominium project when it was launched by the EPRDF, it still saw the displacement and disposession of thousands of inner-city residents and rural residents in the city’s periphery. The narrative of displacement as a necessary evil for development, which resulted in displaced residents made way for lucrative industrial - and real-estate development, is thus a continuing modus-operandi of consecutive political regimes. 
 
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
+<div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisHousing-ExpansionDisplacement/GIFs/Sengatera4060.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
+
+
+<h2>iii. expansion ++ displacement</h2>
+<div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisHousing-ExpansionDisplacement/GIFs/AddisAbaba-City.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
+
+<div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisHousing-ExpansionDisplacement/GIFs/BoleArabsa.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
+
+<h2>v. references</h2>
+Abebe, Gezahegn, and Jan and Hesselberg. 2015. “Community Participation and Inner-City Slum Renewal: Relocated People’s Perspectives on Slum Clearance and Resettlement in Addis Ababa.” *Development in Practice* 25 (4): 551–62. [https://doi.org/10.1080/09614524.2015.1026878](https://doi.org/10.1080/09614524.2015.1026878).
+Planel, Sabine, and Marie and Bridonneau. 2017. “(Re)Making Politics in a New Urban Ethiopia: An Empirical Reading of the Right to the City in Addis Ababa’s Condominiums.” *Journal of Eastern African Studies* 11 (1): 24–45. [https://doi.org/10.1080/17531055.2017.1285105](https://doi.org/10.1080/17531055.2017.1285105).
+Terrefe, Biruk. 2022. “Infrastructures of Renaissance: Tangible Discourses in the EPRDF’s Ethiopia: Infrastructures de Renaissance: Discours Tangible Dans l’Ethiopie de Le FDRPE.” *Critical African Studies* 14 (3): 250–73. [https://doi.org/10.1080/21681392.2022.2039731](https://doi.org/10.1080/21681392.2022.2039731).
+Weldeghebrael, Ezana Haddis. 2022. “The Framing of Inner-City Slum Redevelopment by an Aspiring Developmental State: The Case of Addis Ababa, Ethiopia.” *Cities* 125 (June):102807. [https://doi.org/10.1016/j.cities.2020.102807](https://doi.org/10.1016/j.cities.2020.102807).
+
+<h3>datasets</h3>
+Google Maps. n.d. “Condominiums in Addis Ababa, Ethiopia.”
+“Condominiums in Addis Ababa, Ethiopia Retrieved from [Https://Planet.Osm.Org](Https://Planet.Osm.Org).” 2025. Geolocations. [https://www.openstreetmap.org/](https://www.openstreetmap.org/).
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
-![description of image](/template_site/images/sample_image.png)
+
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
-<div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+<div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisHousing-ExpansionDisplacement/AddisCondoPoints.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
 
 
 All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
 
 <div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+***REMINDER: To view the structure of your website in Visual Studio Code without having to upload to Github, press the following keys to get a spit-screen view: Ctrl K then V.***
+
