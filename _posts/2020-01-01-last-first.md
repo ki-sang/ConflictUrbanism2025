@@ -28,13 +28,13 @@ The inner-city redevelopments that sought to both formalize housing and usher in
 
 Inner city beautification has taken on a new coat today with Prime minister Abiy’s Dubai-like development exercises aimed at attracting foreign capital and diaspora involvement, cementing Addis Ababs legacy as diplomatic capital of Africa. While this can be understood as a move away from EPRDF pro-poor framing of urban development, it is important to note that despite the pro-poor policy framing of the condominium project when it was launched by the EPRDF, it still saw the displacement and disposession of thousands of inner-city residents and rural residents in the city’s periphery. The narrative of displacement as a necessary evil for development, which resulted in displaced residents made way for lucrative industrial - and real-estate development, is thus a continuing modus-operandi of consecutive political regimes. 
 
-<div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisHousing-ExpansionDisplacement/GIFs/Sengatera4060.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
+<img src="/ConflictUrbanism2025/images/Sengatera4060.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0">
 
 
 <h2>iii. expansion ++ displacement</h2>
-<div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisHousing-ExpansionDisplacement/GIFs/AddisAbaba-City.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
+<img src="/ConflictUrbanism2025/images/AddisAbaba-City.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0">
 
-<div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisHousing-ExpansionDisplacement/GIFs/BoleArabsa.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
+<img src="/ConflictUrbanism2025/images/BoleArabsa.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0">
 
 <h2>v. references</h2>
 Abebe, Gezahegn, and Jan and Hesselberg. 2015. “Community Participation and Inner-City Slum Renewal: Relocated People’s Perspectives on Slum Clearance and Resettlement in Addis Ababa.” *Development in Practice* 25 (4): 551–62. [https://doi.org/10.1080/09614524.2015.1026878](https://doi.org/10.1080/09614524.2015.1026878).
@@ -57,7 +57,6 @@ If you want to include html files (i.e. an interactive map) host these via your 
 
 All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
 
-<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 ***REMINDER: To view the structure of your website in Visual Studio Code without having to upload to Github, press the following keys to get a spit-screen view: Ctrl K then V.***
 
