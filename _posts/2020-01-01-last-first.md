@@ -28,13 +28,13 @@ The inner-city redevelopments that sought to both formalize housing and usher in
 
 Inner city beautification has taken on a new coat today with Prime minister Abiy’s Dubai-like development exercises aimed at attracting foreign capital and diaspora involvement, cementing Addis Ababs legacy as diplomatic capital of Africa. While this can be understood as a move away from EPRDF pro-poor framing of urban development, it is important to note that despite the pro-poor policy framing of the condominium project when it was launched by the EPRDF, it still saw the displacement and disposession of thousands of inner-city residents and rural residents in the city’s periphery. The narrative of displacement as a necessary evil for development, which resulted in displaced residents made way for lucrative industrial - and real-estate development, is thus a continuing modus-operandi of consecutive political regimes. 
 
-<img src="/ConflictUrbanism2025/images/Sengatera4060.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0">
+<img src="/ConflictUrbanism2025/images/Sengatera4060.gif" style="float:right; width:80%; height:auto; vertical-align:middle;" frameborder="0">
 
 
 <h2>iii. expansion ++ displacement</h2>
-<img src="/ConflictUrbanism2025/images/AddisAbaba-City.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0">
+<img src="/ConflictUrbanism2025/images/AddisAbaba-City.gif" style="float:right; width:80%; height:auto; vertical-align:middle;" frameborder="0">
 
-<img src="/ConflictUrbanism2025/images/BoleArabsa.gif" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0">
+<img src="/ConflictUrbanism2025/images/BoleArabsa.gif" style="float:right; width:80%; height:auto; vertical-align:middle;" frameborder="0">
 
 <h2>v. references</h2>
 Abebe, Gezahegn, and Jan and Hesselberg. 2015. “Community Participation and Inner-City Slum Renewal: Relocated People’s Perspectives on Slum Clearance and Resettlement in Addis Ababa.” *Development in Practice* 25 (4): 551–62. [https://doi.org/10.1080/09614524.2015.1026878](https://doi.org/10.1080/09614524.2015.1026878).
