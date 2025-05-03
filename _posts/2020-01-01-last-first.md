@@ -46,25 +46,19 @@ Inner city beautification has taken on a new coat today with Prime minister Abiy
 <img src="/ConflictUrbanism2025/images/BoleArabsa.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
 
 <h2>v. references</h2>
+
 Abebe, Gezahegn, and Jan and Hesselberg. 2015. “Community Participation and Inner-City Slum Renewal: Relocated People’s Perspectives on Slum Clearance and Resettlement in Addis Ababa.” *Development in Practice* 25 (4): 551–62. [https://doi.org/10.1080/09614524.2015.1026878](https://doi.org/10.1080/09614524.2015.1026878).
+
 Planel, Sabine, and Marie and Bridonneau. 2017. “(Re)Making Politics in a New Urban Ethiopia: An Empirical Reading of the Right to the City in Addis Ababa’s Condominiums.” *Journal of Eastern African Studies* 11 (1): 24–45. [https://doi.org/10.1080/17531055.2017.1285105](https://doi.org/10.1080/17531055.2017.1285105).
+
 Terrefe, Biruk. 2022. “Infrastructures of Renaissance: Tangible Discourses in the EPRDF’s Ethiopia: Infrastructures de Renaissance: Discours Tangible Dans l’Ethiopie de Le FDRPE.” *Critical African Studies* 14 (3): 250–73. [https://doi.org/10.1080/21681392.2022.2039731](https://doi.org/10.1080/21681392.2022.2039731).
+
 Weldeghebrael, Ezana Haddis. 2022. “The Framing of Inner-City Slum Redevelopment by an Aspiring Developmental State: The Case of Addis Ababa, Ethiopia.” *Cities* 125 (June):102807. [https://doi.org/10.1016/j.cities.2020.102807](https://doi.org/10.1016/j.cities.2020.102807).
 
 <h3>datasets</h3>
 Google Maps. n.d. “Condominiums in Addis Ababa, Ethiopia.”
+
 “Condominiums in Addis Ababa, Ethiopia Retrieved from [Https://Planet.Osm.Org](Https://Planet.Osm.Org).” 2025. Geolocations. [https://www.openstreetmap.org/](https://www.openstreetmap.org/).
-
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
-
-
-
-If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
-
-<div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisHousing-ExpansionDisplacement/AddisCondoPoints.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
-
-
-All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
 
 
 ***REMINDER: To view the structure of your website in Visual Studio Code without having to upload to Github, press the following keys to get a spit-screen view: Ctrl K then V.***
