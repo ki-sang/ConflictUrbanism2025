@@ -5,6 +5,14 @@ image: "/template_site/images/csr_thumbnail.png"
 title:  "housing as <em>expansion/displacement</em> in addis ababa"
 author: "fennet habte & ki-sang yi"
 ---
+<style>
+    body {
+        background-color: #14110F; /* Dark color for background */
+        color: #F2F2F2; /* Off white color for text */
+        font-family: 'Helvetica Neue', Helvetica;
+    }
+</style>
+
 <h1>housing as <em>expansion/displacement</em> in addis ababa</h1>
 
 *"INSERT QUOTE."*
