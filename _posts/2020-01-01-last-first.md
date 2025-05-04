@@ -16,6 +16,7 @@ author: "fennet habte & ki-sang yi"
 <img src="/ConflictUrbanism2025/images/Habte_Yi/Addis-Strip.png" style="width:100%; height:auto; vertical-align:middle;" frameborder="0">
 
 <h1>housing as <em>expansion/displacement</em> in addis ababa</h1>
+Fennet Habte & Ki-Sang Yi
 
 <div style="width: 80%"> 
     <i>Lydia, a new resident in the Bole Arabsa condominiums: No one comes here [the condominium] and no one goes from here to there [bordering Oromia farmland]. If you want to go over there and mix with them, they won’t even let you near them. People are afraid to go over there. The lands in the city were given to investors, so where do resettlers go? Back to the land of the farmer. The farmer only sees the people settling on his land, he won’t think that the government took the land and built the house and gave it to you, so they don’t like the settlers. Do you understand?</i> <br>
@@ -151,24 +152,42 @@ Tying Addis Ababa’s urban development to larger continental, aspirational urba
 
 <h2>v. references</h2>
 
-Abebe, Gezahegn, and Jan Hesselberg. 2015. “Community Participation and Inner-City Slum Renewal: Relocated People’s Perspectives on Slum Clearance and Resettlement in Addis Ababa.” Development in Practice 25 (4): 551–62. [https://doi.org/10.1080/09614524.2015.1026878](https://doi.org/10.1080/09614524.2015.1026878).
-Angélil, Marc, and Dirk Hebel. 2010. Cities of Change : Addis Ababa : Transformation Strategies for Urban Territories in the 21st Century. Basel ; Boston : Birkhäuser. [http://archive.org/details/citiesofchangead0000unse](http://archive.org/details/citiesofchangead0000unse).
-Bula, S. Wayessa. 2020. “‘They Deceived Us’: Narratives of Addis Ababa Development-Induced Displaced Peasants.” International Journal of Sociology and Anthropology 12 (3): 67–75. [https://doi.org/10.5897/IJSA2020.0862](https://doi.org/10.5897/IJSA2020.0862).
-Charitonidou, Marianna. 2022. “Housing Programs for the Poor in Addis Ababa: Urban Commons as a Bridge between Spatial and Social.” Journal of Urban History 48 (6): 1345–64. [https://doi.org/10.1177/0096144221989975](https://doi.org/10.1177/0096144221989975).
-Côté-Roy, Laurence, and Sarah Moser. 2019. “‘Does Africa Not Deserve Shiny New Cities?’ The Power of Seductive Rhetoric around New Cities in Africa.” Urban Studies 56 (12): 2391–2407. [https://doi.org/10.1177/0042098018793032](https://doi.org/10.1177/0042098018793032).
-Debelo, Asebe Regassa, and Teshome Emana Soboka. 2023. “Urban Development and the Making of Frontiers in/from Addis Ababa/Finfinne, Ethiopia.” Journal of Asian and African Studies 58 (5): 708–24. [https://doi.org/10.1177/00219096211069647](https://doi.org/10.1177/00219096211069647).
-Di Nunzio, Marco. 2022. “Evictions for Development: Creative Destruction, Redistribution and the Politics of Unequal Entitlements in Inner-City Addis Ababa (Ethiopia), 2010–2018.” Political Geography 98 (October):102671. [https://doi.org/10.1016/j.polgeo.2022.102671](https://doi.org/10.1016/j.polgeo.2022.102671).
-Faria, Caroline, and Dominica Whitesell. 2021. “Global Retail Capital and Urban Futures: Feminist Postcolonial Perspectives.” Geography Compass 15 (1): e12551. [https://doi.org/10.1111/gec3.12551](https://doi.org/10.1111/gec3.12551).
-Fathollahzadeh, Nafis. 2025. “8000 Cities: Beyond the Contested Urbanisation of Addis Ababa.” City 29 (1–2): 289–303. [https://doi.org/10.1080/13604813.2024.2395123](https://doi.org/10.1080/13604813.2024.2395123).
-Gardner, Tom. 2017. “‘Addis Has Run out of Space’: Ethiopia’s Radical Redesign.” The Guardian, December 4, 2017, sec. Cities. [https://www.theguardian.com/cities/2017/dec/04/addis-ababa-ethiopia-redesign-housing-project](https://www.theguardian.com/cities/2017/dec/04/addis-ababa-ethiopia-redesign-housing-project).
-———. 2019. “‘This Is Dubai Now’: Nobel-Winning PM’s Plan to Transform Addis Ababa.” The Guardian, October 16, 2019, sec. Cities. [https://www.theguardian.com/cities/2019/oct/16/this-is-dubai-now-nobel-winning-pms-plan-to-transform-addis-ababa](https://www.theguardian.com/cities/2019/oct/16/this-is-dubai-now-nobel-winning-pms-plan-to-transform-addis-ababa).
-Hollands, Robert G. 2008. “Will the Real Smart City Please Stand up?: Intelligent, Progressive or Entrepreneurial?” City 12 (3): 303–20. [https://doi.org/10.1080/13604810802479126](https://doi.org/10.1080/13604810802479126).
-Larkin, Brian. 2013. “The Politics and Poetics of Infrastructure.” Annual Review of Anthropology 42 (1): 327–43. [https://doi.org/10.1146/annurev-anthro-092412-155522](https://doi.org/10.1146/annurev-anthro-092412-155522).
-Planel, Sabine, and Marie and Bridonneau. 2017. “(Re)Making Politics in a New Urban Ethiopia: An Empirical Reading of the Right to the City in Addis Ababa’s Condominiums.” Journal of Eastern African Studies 11 (1): 24–45. [https://doi.org/10.1080/17531055.2017.1285105](https://doi.org/10.1080/17531055.2017.1285105).
-Terrefe, Biruk. 2022. “Infrastructures of Renaissance: Tangible Discourses in the EPRDF’s Ethiopia: Infrastructures de Renaissance: Discours Tangible Dans l’Ethiopie de Le FDRPE.” Critical African Studies 14 (3): 250–73. [https://doi.org/10.1080/21681392.2022.2039731](https://doi.org/10.1080/21681392.2022.2039731).
-UN-Habitat. 2017. “The State of Addis Ababa: The Addis Ababa We Want.” [https://unhabitat.org/sites/default/files/download-manager-files/State%20of%20Addis%20Ababa%202017%20Report-web.pdf](https://unhabitat.org/sites/default/files/download-manager-files/State%20of%20Addis%20Ababa%202017%20Report-web.pdf).
-United Nations Public Service Innovation Hub. 2015. “United Nations Public Service Award Winners: Integrated Housing and Development Program (IHDP).” United Nations. 2015. [https://publicadministration.un.org/unpsa/innovation-hub/Winners/2015-Winners/Integrated-Housing-and-Development-Program](https://publicadministration.un.org/unpsa/innovation-hub/Winners/2015-Winners/Integrated-Housing-and-Development-Program).
-Weldeghebrael, Ezana Haddis. 2022. “The Framing of Inner-City Slum Redevelopment by an Aspiring Developmental State: The Case of Addis Ababa, Ethiopia.” Cities 125 (June):102807. [https://doi.org/10.1016/j.cities.2020.102807](https://doi.org/10.1016/j.cities.2020.102807).
+Abebe, Gezahegn, and Jan Hesselberg. 2015. “Community Participation and Inner-City Slum Renewal: Relocated People’s Perspectives on Slum Clearance and Resettlement in Addis Ababa.” Development in Practice 25 (4): 551–62. https://doi.org/10.1080/09614524.2015.1026878.
+
+Angélil, Marc, and Dirk Hebel. 2010. Cities of Change : Addis Ababa : Transformation Strategies for Urban Territories in the 21st Century. Basel ; Boston : Birkhäuser. http://archive.org/details/citiesofchangead0000unse.
+
+Bula, S. Wayessa. 2020. “‘They Deceived Us’: Narratives of Addis Ababa Development-Induced Displaced Peasants.” International Journal of Sociology and Anthropology 12 (3): 67–75. https://doi.org/10.5897/IJSA2020.0862.
+
+Charitonidou, Marianna. 2022. “Housing Programs for the Poor in Addis Ababa: Urban Commons as a Bridge between Spatial and Social.” Journal of Urban History 48 (6): 1345–64. https://doi.org/10.1177/0096144221989975.
+
+Côté-Roy, Laurence, and Sarah Moser. 2019. “‘Does Africa Not Deserve Shiny New Cities?’ The Power of Seductive Rhetoric around New Cities in Africa.” Urban Studies 56 (12): 2391–2407. https://doi.org/10.1177/0042098018793032.
+
+Debelo, Asebe Regassa, and Teshome Emana Soboka. 2023. “Urban Development and the Making of Frontiers in/from Addis Ababa/Finfinne, Ethiopia.” Journal of Asian and African Studies 58 (5): 708–24. https://doi.org/10.1177/00219096211069647.
+
+Di Nunzio, Marco. 2022. “Evictions for Development: Creative Destruction, Redistribution and the Politics of Unequal Entitlements in Inner-City Addis Ababa (Ethiopia), 2010–2018.” Political Geography 98 (October):102671. https://doi.org/10.1016/j.polgeo.2022.102671.
+
+Faria, Caroline, and Dominica Whitesell. 2021. “Global Retail Capital and Urban Futures: Feminist Postcolonial Perspectives.” Geography Compass 15 (1): e12551. https://doi.org/10.1111/gec3.12551.
+
+Fathollahzadeh, Nafis. 2025. “8000 Cities: Beyond the Contested Urbanisation of Addis Ababa.” City 29 (1–2): 289–303. https://doi.org/10.1080/13604813.2024.2395123.
+
+Gardner, Tom. 2017. “‘Addis Has Run out of Space’: Ethiopia’s Radical Redesign.” The Guardian, December 4, 2017, sec. Cities. https://www.theguardian.com/cities/2017/dec/04/addis-ababa-ethiopia-redesign-housing-project.
+
+———. 2019. “‘This Is Dubai Now’: Nobel-Winning PM’s Plan to Transform Addis Ababa.” The Guardian, October 16, 2019, sec. Cities. https://www.theguardian.com/cities/2019/oct/16/this-is-dubai-now-nobel-winning-pms-plan-to-transform-addis-ababa.
+
+Hollands, Robert G. 2008. “Will the Real Smart City Please Stand up?: Intelligent, Progressive or Entrepreneurial?” City 12 (3): 303–20. https://doi.org/10.1080/13604810802479126.
+
+Larkin, Brian. 2013. “The Politics and Poetics of Infrastructure.” Annual Review of Anthropology 42 (1): 327–43. https://doi.org/10.1146/annurev-anthro-092412-155522.
+
+Planel, Sabine, and Marie and Bridonneau. 2017. “(Re)Making Politics in a New Urban Ethiopia: An Empirical Reading of the Right to the City in Addis Ababa’s Condominiums.” Journal of Eastern African Studies 11 (1): 24–45. https://doi.org/10.1080/17531055.2017.1285105.
+
+Terrefe, Biruk. 2022. “Infrastructures of Renaissance: Tangible Discourses in the EPRDF’s Ethiopia: Infrastructures de Renaissance: Discours Tangible Dans l’Ethiopie de Le FDRPE.” Critical African Studies 14 (3): 250–73. https://doi.org/10.1080/21681392.2022.2039731.
+
+UN-Habitat. 2017. “The State of Addis Ababa: The Addis Ababa We Want.” https://unhabitat.org/sites/default/files/download-manager-files/State%20of%20Addis%20Ababa%202017%20Report-web.pdf.
+
+United Nations Public Service Innovation Hub. 2015. “United Nations Public Service Award Winners: Integrated Housing and Development Program (IHDP).” United Nations. 2015. https://publicadministration.un.org/unpsa/innovation-hub/Winners/2015-Winners/Integrated-Housing-and-Development-Program.
+
+Weldeghebrael, Ezana Haddis. 2022. “The Framing of Inner-City Slum Redevelopment by an Aspiring Developmental State: The Case of Addis Ababa, Ethiopia.” Cities 125 (June):102807. https://doi.org/10.1016/j.cities.2020.102807.
+
 
 <h3>datasets</h3>
 Google Maps. n.d. “Condominiums in Addis Ababa, Ethiopia.”
