@@ -17,7 +17,7 @@ author: "fennet habte & ki-sang yi"
 
 <h1>housing as <em>expansion/displacement</em> in addis ababa</h1>
 
-<div style="text-align: right; width: 80%"> 
+<div style="width: 80%"> 
     <i>Lydia, a new resident in the Bole Arabsa condominiums: No one comes here [the condominium] and no one goes from here to there [bordering Oromia farmland]. If you want to go over there and mix with them, they won’t even let you near them. People are afraid to go over there. The lands in the city were given to investors, so where do resettlers go? Back to the land of the farmer. The farmer only sees the people settling on his land, he won’t think that the government took the land and built the house and gave it to you, so they don’t like the settlers. Do you understand?</i> <br>
     <br>
     <i>Milkesa, the interviewer: Because they think they came here because they wanted to?</i> <br>
