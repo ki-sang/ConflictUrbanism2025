@@ -35,12 +35,12 @@ The inner-city redevelopments that sought to both formalize housing and usher in
 
 <div class="row">
     <div class="column">
-        <video controls autoplay>
+        <video controls autoplay; loop>
             <source src="/conflict_urbanism_sp2025/images/Habte_Yi/AddisBusCommute.mp4" style="float:left;width:20%;height:auto;" frameborder="0">
         </video>
     </div> 
     <div class="column">
-        <video>
+        <video controls autoplay>
             <source src="/conflict_urbanism_sp2025/images/Habte_Yi/AratKilo_to_Jemo.mp4" style="float:right;width:80%;height:auto;" frameborder="0">
         </video>
     </div>
