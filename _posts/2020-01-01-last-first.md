@@ -13,24 +13,31 @@ author: "fennet habte & ki-sang yi"
     }
 </style>
 
+<img src="/ConflictUrbanism2025/images/Habte_Yi/Addis-Strip.png" style="width:100%; height:auto; vertical-align:middle;" frameborder="0">
+
 <h1>housing as <em>expansion/displacement</em> in addis ababa</h1>
 
 <div style="text-align: right"> 
     <i>Lydia, a new resident in the Bole Arabsa condominiums: No one comes here [the condominium] and no one goes from here to there [bordering Oromia farmland]. If you want to go over there and mix with them, they won’t even let you near them. People are afraid to go over there. The lands in the city were given to investors, so where do resettlers go? Back to the land of the farmer. The farmer only sees the people settling on his land, he won’t think that the government took the land and built the house and gave it to you, so they don’t like the settlers. Do you understand?</i> <br>
+    <br>
     <i>Milkesa, the interviewer: Because they think they came here because they wanted to?</i> <br>
+    <br>
     <i>Lydia: At the end of the day, the farmers will just think that their land is taken from them by the government so that people from the city can be settled.</i><br>
+    <br>
+    (Fathollahzadeh 2025, p. 300)
 </div>
 
-<div style="text-align: right">(Fathollahzadeh 2025, p. 300)</div>
-
+<br>
+***
 <br>
 
 <div style="text-align: right">
-    <i>Fanos, a resident in a village across Akaki river: Even if they say that this is the border between Oromia and Finfinnee, we haven’t accepted that. We can’t deny the growth of a city. Growth is natural. When the population grows, so does the size of the city. But the growth should benefit the dwellers of the land as well. For example, they take away 20 hectares of your land and give you a single place on a legal location map. [...] They could provide a better life for the farmer. They could create job opportunities.</i>
-    <i>Milkesa: Most people think this is an urban area. And after 100 or 200 metres the landscape is very rural. The difference between the two is obvious.</i>
+    <i>Fanos, a resident in a village across Akaki river: Even if they say that this is the border between Oromia and Finfinnee, we haven’t accepted that. We can’t deny the growth of a city. Growth is natural. When the population grows, so does the size of the city. But the growth should benefit the dwellers of the land as well. For example, they take away 20 hectares of your land and give you a single place on a legal location map. [...] They could provide a better life for the farmer. They could create job opportunities.</i><br>
+    <br>
+    <i>Milkesa: Most people think this is an urban area. And after 100 or 200 metres the landscape is very rural. The difference between the two is obvious.</i><br>
+    <br>
+    (Fathollahzadeh 2025, p. 292)
 </div>
-
-<div style="text-align: right">(Fathollahzadeh 2025, p. 292)</div>
 
 <br>
 
@@ -56,11 +63,11 @@ The inner-city redevelopments that sought to formalize housing and usher in a ne
 In a study of Jemo condominium, which houses a large group of residents evicted from the central Arat Kilo neighborhood, Planel & Bridonneau highlight the tension between a sense of security through formal home-ownership and financial insecurity due to high mortgage costs.  
 
 <div style="text-align: right">
-    <i>If I can’t pay the loan, the bank will seize the apartment. My wife and I sometimes think about renting or selling it. I could sell it for 500,000 birr. It originally cost 125,000 birr, but if you add in the interest payments, the apartment cost us 300,000 birr. But I’ll fight to stay here.</i>
-    
-Getenet, owns a condominium in Jemo after being evicted from his rental house (kebele bet) in Arat Kilo.
-
-(Planel & Bridonneau 2017, p. 36)  
+    <i>If I can’t pay the loan, the bank will seize the apartment. My wife and I sometimes think about renting or selling it. I could sell it for 500,000 birr. It originally cost 125,000 birr, but if you add in the interest payments, the apartment cost us 300,000 birr. But I’ll fight to stay here.</i><br>
+    <br>
+    Getenet, owns a condominium in Jemo after being evicted from his rental house (kebele bet) in Arat Kilo.<br>
+    <br>
+    (Planel & Bridonneau 2017, p. 36)  
 </div>
 
 <video src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_to_Jemo-Merge.mp4" style="position:center;width:100%;height:auto;" frameborder="0">
@@ -72,6 +79,7 @@ New condominium residents experienced a loss of social networks and faced increa
 
 <div style="text-align: right">
     *Money is power. Only those who have economic capacity can be heard and have the ‘right’ to live at the centre. But those who do not have power have no chance except to be thrown away outside where no basic facilities are fulfilled.*<br>
+    <br>
     Older informant, relocated from the city-center. <br>
     <br>
     (Abebe & Hesselberg, 2015, p. 557)
@@ -81,7 +89,9 @@ Prime minister Abiy’s current Dubai-like development attempts at beautifying t
 
 <div style="text-align: right">
     *Milkesa [Interviewer]: How do the people here see urbanisation?* <br>
+    <br>
     *Fanos, resident in a village across Akaki river: No one hates urbanisation as long as we benefit, or our children benefit. We as well as our children would love to change. We didn’t say Finfinnee should not expand, but our needs should be noted.* <br>
+    <br>
     *Milkesa: How do you see the growth of the city?* <br>
     <br>
     *Dagne, a resident in a village across Akaki river: We all know that a city has to grow vertically. But when it expands horizontally at such a rate, we should understand that there is something wrong. Even if it grows horizontally, it should have some benefit for the population it displaces. But we get nothing from it.* <br>
