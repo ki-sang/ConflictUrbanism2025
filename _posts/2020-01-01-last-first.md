@@ -74,7 +74,6 @@ The inner-city redevelopments that sought to formalize housing and usher in a ne
 
 In a study of Jemo condominium, which houses a large group of residents evicted from the central Arat Kilo neighborhood, Planel & Bridonneau highlight the tension between a sense of security through formal home-ownership and financial insecurity due to high mortgage costs.  
 <br>
-
 <div style="margin: 0 0 0 10%;"> 
     <i>If I can’t pay the loan, the bank will seize the apartment. My wife and I sometimes think about renting or selling it. I could sell it for 500,000 birr. It originally cost 125,000 birr, but if you add in the interest payments, the apartment cost us 300,000 birr. But I’ll fight to stay here.</i><br>
     <br>
