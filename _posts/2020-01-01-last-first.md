@@ -20,7 +20,7 @@ author: "fennet habte & ki-sang yi"
 Fennet Habte & Ki-Sang Yi
 <br>
 
-<div style="width: 80%; margins: 0 0 0 20%;"> 
+<div style="width: 80%; margin: 0 0 0 20%;"> 
     <i>Lydia, a new resident in the Bole Arabsa condominiums: No one comes here [the condominium] and no one goes from here to there [bordering Oromia farmland]. If you want to go over there and mix with them, they won’t even let you near them. People are afraid to go over there. The lands in the city were given to investors, so where do resettlers go? Back to the land of the farmer. The farmer only sees the people settling on his land, he won’t think that the government took the land and built the house and gave it to you, so they don’t like the settlers. Do you understand?</i> <br>
     <br>
     <i>Milkesa, the interviewer: Because they think they came here because they wanted to?</i> <br>
@@ -44,22 +44,28 @@ Fennet Habte & Ki-Sang Yi
 
 <img src="/ConflictUrbanism2025/images/Habte_Yi/AddisAbaba-City.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
 
+<br>
+
 <h2>i. IHDP ++ addis</h2>
 
 Addis Ababa has been the site of many visionary state-making exercises. First designated as capital city of the empire in 1898 by Emperor Menelik II and Empress Taitu, the place which was/and still is referred to as Finfinne by the indigenous Oromo inhabitants of the area has undergone restructuring and expansion under successive political regimes that sought to establish their political power and legacy in the city. Addis Ababa has the status of a self-governing city and sits within the Oromia region (Weldeghebrael 2022).
 
 In 2006, the Government of Ethiopia announced the Integrated Housing Development Program (IHDP), an extension of the Addis Ababa Grand Housing Program (AAGHP) that was launched in 2004 in partnership with the German Technical Cooperation (GTZ). The goal of  the IHDP was to address the critical housing shortage in Addis Ababa by building 400,000 condominium apartments. Simultaneously, the project aimed to beautify Addis Ababa’s inner city, address unemployment, and promote homeownership for low and middle-income households, furthering the country’s economic development goals (United Nations 2025). By 2015, the re-development of the inner-city, partially to build condominiums, but more often to allow for private re-development, has caused the demolishing of 392 ha of inner-city informal housing and the displacement of 23,151 households (UN Habitat 2017). While the first condominium projects were situated in the inner-city, eventually the project expanded to develop large-scale housing projects in what was perceived to be the ‘underutilized’ periphery of the city and adjacent farmland in Oromia.  With over a hundred sites throughout the city and its periphery, the condominiums occupy 11% of Addis Ababa area - significantly changing the spatial fabric of the city and its periphery (Charitonidou 2021).
+<br>
 
 <div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisCondos/AddisCondoPoints.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
 <h6><em>Condominium locations scrapped from OpenStreetMap and Google Places API and their typologies. As a user-contributed list, this dataset does not include all condominium projects in Addis Ababa. Visitors are encouraged to roam around to look for unaccounted condominium projects in the inner city and the peripheries.</em></h6>
+<br>
 
 The IHDP emerged in the aftermath of the 2005 Ethiopian election, which saw a loss of votes for the EPRDF - the party that had dominated Ethiopian politics for over a decade, and large-scale protests demanding political change (Weldeghebrael 2022, p. 3). The EPRDF’s subsequent promise of infrastructure realized in the IHDP, thus served as a way to appeal to urban grievances, appease constituents, regain political legitimacy and propose an actionable vision for a prosperous, orderly city (Terrefe 2022, p. 4). In the years after the end of the cooperation with the GTZ (now GIZ), the projects’ financing solely through Ethiopian public resources has been lauded, showcasing to “other African nations that Africa can solve its own problems” (Gardner 2017). 
 
 While the project continues to be successful at increasing formal housing stock, and enabling home-ownership for low-and middle income households, research has shown that the urban poor who were deemed the primary target audience were often barely able to make the down-payment let alone their mortgage. Over the past two decades we have thus seen a phenomenon of low-income apartment owners renting to middle-class tenants to finance their mortgage, while they themselves continue to live in informal, precarious housing in the inner city (Planel & Bridonneau 2017, p. 32). Avenues into the condominiums are three-fold: Residents evicted from neighborhoods slated for demolition are given priority in purchasing a condominium, as compensation. The main avenue to home-ownership is the lottery system, that randomly allocates apartments to applicants as they become available. Lastly, those who are unsuccessful at gaining access through the lottery may choose to rent units.
+<br>
 
 <h3>relocation ++ insecurity</h3>
 
 The inner-city redevelopments that sought to formalize housing and usher in a new era of modern urban development, served both to allow for easier governing of inner-city populations, deemed troublesome, unruly and hotbeds of political dissidents after the 2005 post-election protests, and created an agreeable environment for foreign- and diaspora developers in prime real estate locations (Weldeghebrael 2022, p. 4). The first inner-city site to be re-developed into an IHDP site was in the Lideta neighborhood. According to government officials it was selected due to the belief that “there was a huge concentration of Coalition for Unity and Democracy (CUD) 2005 election campaigners and subsequent protest mobilizers”. Relocations of residents of informal inner-city settlements were conducted with little community input, at times purposefully separating inner-city communities, who had been deemed sites of opposition protest, scattering them across five to twelve different condominiums at the city’s peripheries, severing existing social networks (Weldeghebrael 2022, p. 6). The  strategic spatial dispersion of former inner-city residents deemed troublesome allowed the IHDP to act as a mechanism of enacting control and repress potential future counter-government organizing. 
+<br>
 
 <video width="100%" height="auto" controls>
   <source src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_to_Jemo-Merge.mp4" type="video/mp4">
@@ -68,6 +74,7 @@ The inner-city redevelopments that sought to formalize housing and usher in a ne
 <br>
 
 In a study of Jemo condominium, which houses a large group of residents evicted from the central Arat Kilo neighborhood, Planel & Bridonneau highlight the tension between a sense of security through formal home-ownership and financial insecurity due to high mortgage costs.  
+<br>
 
 <div style="text-align: right; width: 80%">
     <i>If I can’t pay the loan, the bank will seize the apartment. My wife and I sometimes think about renting or selling it. I could sell it for 500,000 birr. It originally cost 125,000 birr, but if you add in the interest payments, the apartment cost us 300,000 birr. But I’ll fight to stay here.</i><br>
@@ -138,12 +145,14 @@ Poor inner-city residents, who have to make way for new construction projects to
 
 However, Addis Ababa’s expansion does not go unchallenged. The announcement of a new masterplan in 2014, which sought to incorporate adjacent towns and villages in Oromia into Addis Ababa proper, was met with massive protests across Oromia state. Protesters fought for a suspension of the plan, which they saw as a tool to legalize the further dispossession of farmers surrounding Addis Ababa. While the masterplan was suspended in January of 2016, protests continued in the following months and reached international attention when during and following ‘Ireecha’ celebrations (Oromo thanksgiving) several hundred were killed due to violent government intervention (Terrefe 2022, p. 9). The subsequent political pressure led Prime Minister Hailemariam Desalegn to resign, who was replaced by Prime Minister Abiy Ahmed in 2019 - heralded as the harbinger of a new political era.
 <br>
+<br>
 
 <h2>conclusion</h2>
  
 The IHDP has undoubtedly brought with it rapid transformation, both in Addis Ababa’s spatial footprint and in the way residents of the city and its rural periphery experience dispossession, condominium living, and urbanization. The simultaneous transformation of urban space in the center of the city and its newly commodified periphery highlights the dual role that residents evicted from the inner-city hold in peripheral condominiums, as being dispossessed and acting as dispossessor. 
 
 Tying Addis Ababa’s urban development to larger continental, aspirational urbanisms, shows how modernization processes in the center and periphery both on the local level and the global level are inextricably linked. The case of Addis Ababa, challenges us to search for forms of equitable urban development and question the narrative of dispossession as merely a byproduct of development. Instead, we are encouraged to look at how dispossession and displacement are created, why they are maintained and how they manifest spatially. 
+<br>
 <br>
 
 <h2>v. references</h2>
