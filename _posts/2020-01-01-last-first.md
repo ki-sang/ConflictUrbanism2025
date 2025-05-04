@@ -47,6 +47,7 @@ Fennet Habte & Ki-Sang Yi
 <br>
 
 <h2>i. IHDP ++ addis</h2>
+<br>
 
 Addis Ababa has been the site of many visionary state-making exercises. First designated as capital city of the empire in 1898 by Emperor Menelik II and Empress Taitu, the place which was/and still is referred to as Finfinne by the indigenous Oromo inhabitants of the area has undergone restructuring and expansion under successive political regimes that sought to establish their political power and legacy in the city. Addis Ababa has the status of a self-governing city and sits within the Oromia region (Weldeghebrael 2022).
 
@@ -54,14 +55,14 @@ In 2006, the Government of Ethiopia announced the Integrated Housing Development
 <br>
 
 <div class="iframe-column"><iframe src="https://ki-sang.github.io/AddisCondos/AddisCondoPoints.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
-<h6><em>Condominium locations scrapped from OpenStreetMap and Google Places API and their typologies. As a user-contributed list, this dataset does not include all condominium projects in Addis Ababa. Visitors are encouraged to roam around to look for unaccounted condominium projects in the inner city and the peripheries.</em></h6>
+<h6><em>Condominium locations scraped from OpenStreetMap and Google Places API and their typologies. As a user-contributed list, this dataset does not include all condominium projects in Addis Ababa. Visitors are encouraged to roam around to look for unaccounted condominium projects in the inner city and the peripheries.</em></h6>
 <br>
 The IHDP emerged in the aftermath of the 2005 Ethiopian election, which saw a loss of votes for the EPRDF - the party that had dominated Ethiopian politics for over a decade, and large-scale protests demanding political change (Weldeghebrael 2022, p. 3). The EPRDF’s subsequent promise of infrastructure realized in the IHDP, thus served as a way to appeal to urban grievances, appease constituents, regain political legitimacy and propose an actionable vision for a prosperous, orderly city (Terrefe 2022, p. 4). In the years after the end of the cooperation with the GTZ (now GIZ), the projects’ financing solely through Ethiopian public resources has been lauded, showcasing to “other African nations that Africa can solve its own problems” (Gardner 2017). 
 
 While the project continues to be successful at increasing formal housing stock, and enabling home-ownership for low-and middle income households, research has shown that the urban poor who were deemed the primary target audience were often barely able to make the down-payment let alone their mortgage. Over the past two decades we have thus seen a phenomenon of low-income apartment owners renting to middle-class tenants to finance their mortgage, while they themselves continue to live in informal, precarious housing in the inner city (Planel & Bridonneau 2017, p. 32). Avenues into the condominiums are three-fold: Residents evicted from neighborhoods slated for demolition are given priority in purchasing a condominium, as compensation. The main avenue to home-ownership is the lottery system, that randomly allocates apartments to applicants as they become available. Lastly, those who are unsuccessful at gaining access through the lottery may choose to rent units.
 <br>
 
-<h4><em>relocation ++ insecurity</em></h4>
+<h4><em>relocation ++ insecurity</em></h4><br>
 
 The inner-city redevelopments that sought to formalize housing and usher in a new era of modern urban development, served both to allow for easier governing of inner-city populations, deemed troublesome, unruly and hotbeds of political dissidents after the 2005 post-election protests, and created an agreeable environment for foreign- and diaspora developers in prime real estate locations (Weldeghebrael 2022, p. 4). The first inner-city site to be re-developed into an IHDP site was in the Lideta neighborhood. According to government officials it was selected due to the belief that “there was a huge concentration of Coalition for Unity and Democracy (CUD) 2005 election campaigners and subsequent protest mobilizers”. Relocations of residents of informal inner-city settlements were conducted with little community input, at times purposefully separating inner-city communities, who had been deemed sites of opposition protest, scattering them across five to twelve different condominiums at the city’s peripheries, severing existing social networks (Weldeghebrael 2022, p. 6). The  strategic spatial dispersion of former inner-city residents deemed troublesome allowed the IHDP to act as a mechanism of enacting control and repress potential future counter-government organizing. 
 <br>
@@ -83,14 +84,14 @@ In a study of Jemo condominium, which houses a large group of residents evicted 
 </div>
 <br>
 
-<img src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_Jemo_GIF.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
+<img src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_Jemo.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
 <h6><em>In the early 2010s, Jemo was still considered very much on the outskirts and it was one of the major outlying sites ear-marked by the government as part of the Integrated Housing Development Program, before the big move back to the more central neighbourhoods coveted by the upper-middle classes. Jemo was one of the flagship initiatives of the government-backed effort to build an attractive periphery from scratch. It has rapidly become a symbol of social transformation and upward mobility" (Planel & Bridonneau 2017, p.30). Aerial imagery of Arat Kilo and Jemo Block 3 Condominium developments from 2002 through 2025 show that the condominiums on the outskirts were pre-emptively built in anticipation of new residents from the inner city.</em></h6>
 <br>
 
 New condominium residents experienced a loss of social networks and faced increased time and cost barriers for accessing work opportunities in the city center. The condominium sites themselves, resembling post-war European housing blocks, were built with little regard to common cultural use patterns and fostering community gathering. While some condominium sites have developed into lively and bustling neighborhoods, many residents report a sense of loneliness and anonymity from life in the condominiums (Planel & Bridonneau 2017, p. 39). 
 <br>
 
-<h2>ii. addis urbanism ++ aspirations of modernity</h2>
+<h2>ii. addis urbanism ++ aspirations of modernity</h2> <br>
 
 <div style="margin: 0 0 0 10%;"> 
     <em>Money is power. Only those who have economic capacity can be heard and have the ‘right’ to live at the centre. But those who do not have power have no chance except to be thrown away outside where no basic facilities are fulfilled.</em><br>
@@ -101,7 +102,8 @@ New condominium residents experienced a loss of social networks and faced increa
 </div>
 <br>
 
-Prime minister Abiy’s current Dubai-like development attempts at beautifying the inner-city are aimed at attracting foreign capital and diaspora involvement, cementing Addis Ababs legacy as diplomatic capital of Africa (Gardner 2019). Historic informal inner-city neighborhoods stand in the way of the desired vision for Addis Ababa and must therefore give way to skyscrapers and luxury projects (Di Nunzio 2022, p. 5). While this can be understood as a move away from the EPRDF’s pro-poor framing of urban development, it is important to note that despite the pro-poor framing of the IHDP when it was launched in 2005, it still caused the displacement and disposession of thousands of inner-city residents and rural residents in the city’s periphery. Dispossession is thus a continuing modus-operandi of consecutive political regimes. In the case of Addis, it goes hand in hand with the impossibility of criticizing construction projects that promote development. The idea that cities must be particularly modern and globally connected is presented as an indisputable truth, whereby participatory consultations with those affected or considerations of the consequences of displacement and resettlement are dismissed as irrelevant (Hollands 2008). The justification of displacement as a necessary evil for development then and now made way for lucrative industrial and real-estate development.
+Prime minister Abiy’s current Dubai-like development attempts at beautifying the inner-city are aimed at attracting foreign capital and diaspora involvement, cementing Addis Ababs legacy as diplomatic capital of Africa (Gardner 2019). Historic informal inner-city neighborhoods stand in the way of the desired vision for Addis Ababa and must therefore give way to skyscrapers and luxury projects (Di Nunzio 2022, p. 5). While this can be understood as a move away from the EPRDF’s pro-poor framing of urban development, it is important to note that despite the pro-poor framing of the IHDP when it was launched in 2005, it still caused the displacement and disposession of thousands of inner-city residents and rural residents in the city’s periphery. Dispossession is thus a continuing modus-operandi of consecutive political regimes. In the case of Addis, it goes hand in hand with the impossibility of criticizing construction projects that promote development. The idea that cities must be particularly modern and globally connected is presented as an indisputable truth, whereby participatory consultations with those affected or considerations of the consequences of displacement and resettlement are dismissed as irrelevant (Hollands 2008). The justification of displacement as a necessary evil for development then and now made way for lucrative industrial and real-estate development. 
+<br>
 
 <div style="margin: 0 0 0 10%;"> 
     <em>Milkesa [Interviewer]: How do the people here see urbanisation?</em> <br>
@@ -119,7 +121,7 @@ Prime minister Abiy’s current Dubai-like development attempts at beautifying t
 Established ideas of what is understood as a modern, progressive and desirable city diametrically contrast African cities. These are positioned as “unplanned, informal, overpopulated, over- or wrongly urbanized, and behind” (Faria & Whitesell 2021, p. 6). In response, imitating globally circulating ideas of a modern city holds the promise of catching up to Western metropolises (Angélil & Hebel 2010, p. 14). When critiqued it is often justified by the response “does Africa not deserve shiny new cities?” and the claim that it is now Africa’s turn to build prosperous and modern cities (Côté-Roy & Moser 2018). The Ethiopian and regional governments in Addis Ababa view infrastructure as a harbinger of change, modernization, and social progress (Larkin 2013, p. 332). It can be argued that the IHDP is a mechanism through which Ethiopia–and in particular, Addis Ababa ”can take part in a contemporaneous modernity by repeating [...] a common visual and conceptual paradigm of what it means to be modern” (Larkin 2013, p. 333). 
 <br>
 
-<h2>iii. expansion ++ displacement</h2>
+<h2>iii. expansion ++ displacement</h2> <br>
 
 <div style="margin: 0 0 0 10%;"> 
     <em>Wrapped in a white shawl and sporting a wide-brimmed cowboy hat, Haile stares out at his cattle as they graze in a rocky patch of grass. “My family and I have been here since I was a child,” he says, nodding at the small, rickety houses to his right. “But we will have to leave soon.” In the distance loom hulking grey towers, casting long shadows over his pasture. This is Koye Feche, a vast construction site on the edge of Addis Ababa that may soon be sub-Saharan Africa’s largest housing project.</em><br>
@@ -128,9 +130,9 @@ Established ideas of what is understood as a modern, progressive and desirable c
 </div>
 <br>
 
-<img src="/ConflictUrbanism2025/images/Habte_Yi/Condos-KoyeFeche.jpg" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
+<img src="/ConflictUrbanism2025/images/Habte_Yi/Condos-KoyeFeche.jpg" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0"> <br>
 
-Poor inner-city residents, who have to make way for new construction projects to upgrade the coveted city center, are resettled on the outskirts of the city, where they fulfill a dual role of dispossessed and dispossessors of Oromo land (Di Nunzio 2022, p. 4). In their discussion of frontier-making in Addis Ababa’s periphery Debelo & Soboka discuss peri-urban frontiers as a liminal space between the urban and the rural. The rural here is “perceived as a space that can be “discovered, claimed, tamed, settled, transformed” to be economically productive and culturally modernized by those who claim to be authorized to re-order and dominate the space” (Prout and Howitt 2009, p. 397; Debelo & Soboka 2022, p. 710). In addition, Addis Ababa’s peripheral frontier is conceptualized as “full of resources but empty of people” (Korf et al. 2015 via Debelo & Soboka 2022). Thus legitimizing farmers’ dispossession for more ‘productive’ land-uses in the form of condominiums. 
+Poor inner-city residents, who have to make way for new construction projects to upgrade the coveted city center, are resettled on the outskirts of the city, where they fulfill a dual role of dispossessed and dispossessors of Oromo land (Di Nunzio 2022, p. 4). In their discussion of frontier-making in Addis Ababa’s periphery Debelo & Soboka discuss peri-urban frontiers as a liminal space between the urban and the rural. The rural here is “perceived as a space that can be “discovered, claimed, tamed, settled, transformed” to be economically productive and culturally modernized by those who claim to be authorized to re-order and dominate the space” (Prout and Howitt 2009, p. 397; Debelo & Soboka 2022, p. 710). In addition, Addis Ababa’s peripheral frontier is conceptualized as “full of resources but empty of people” (Korf et al. 2015 via Debelo & Soboka 2022). Thus legitimizing farmers’ dispossession for more ‘productive’ land-uses in the form of condominiums.  <br>
 
 <div style="margin: 0 0 0 10%;"> 
     <em>We lost the land we inherited from our mothers and fathers. The government officials forced us to sign an agreement of eviction to give up our land for condominium constructions with a compensation payment of 18.50 ETB (0.60 USD) per square meter. [...] Sewerage from the new residential buildings and the city has polluted the stream we used to use for drinking and for our livestock […] We are refused access to the clean water supplied by the city for the residents of the condominiums […] When we try to appeal our case to the government, local officials bribe our few educated coordinators and we cannot move forward with the legal case.</em><br>
@@ -145,7 +147,7 @@ However, Addis Ababa’s expansion does not go unchallenged. The announcement of
 <br>
 <br>
 
-<h2>conclusion</h2>
+<h2>conclusion</h2> <br>
  
 The IHDP has undoubtedly brought with it rapid transformation, both in Addis Ababa’s spatial footprint and in the way residents of the city and its rural periphery experience dispossession, condominium living, and urbanization. The simultaneous transformation of urban space in the center of the city and its newly commodified periphery highlights the dual role that residents evicted from the inner-city hold in peripheral condominiums, as being dispossessed and acting as dispossessor. 
 
@@ -153,7 +155,7 @@ Tying Addis Ababa’s urban development to larger continental, aspirational urba
 <br>
 <br>
 
-<h2>v. references</h2>
+<h2>v. references</h2> <br>
 
 Abebe, Gezahegn, and Jan Hesselberg. 2015. “Community Participation and Inner-City Slum Renewal: Relocated People’s Perspectives on Slum Clearance and Resettlement in Addis Ababa.” Development in Practice 25 (4): 551–62. https://doi.org/10.1080/09614524.2015.1026878.
 
