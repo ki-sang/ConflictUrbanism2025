@@ -18,6 +18,7 @@ author: "fennet habte & ki-sang yi"
 
 <h1>housing as <em>expansion/displacement</em> in addis ababa</h1>
 Fennet Habte & Ki-Sang Yi
+<br>
 
 <div style="width: 80%"> 
     <i>Lydia, a new resident in the Bole Arabsa condominiums: No one comes here [the condominium] and no one goes from here to there [bordering Oromia farmland]. If you want to go over there and mix with them, they won’t even let you near them. People are afraid to go over there. The lands in the city were given to investors, so where do resettlers go? Back to the land of the farmer. The farmer only sees the people settling on his land, he won’t think that the government took the land and built the house and gave it to you, so they don’t like the settlers. Do you understand?</i> <br>
@@ -64,6 +65,7 @@ The inner-city redevelopments that sought to formalize housing and usher in a ne
   <source src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_to_Jemo-Merge.mp4" type="video/mp4">
 </video>
 <h6><em>Left: Rush hour bus commute from Shela in Addis Ababa. Right: The commute from Arat Kilo east of Piassa to Jemo Block 3 Condominiums includes a 25-minute walk to the bus stop and a 45-minute bus ride to the other side of the city.</em></h6>
+<br>
 
 In a study of Jemo condominium, which houses a large group of residents evicted from the central Arat Kilo neighborhood, Planel & Bridonneau highlight the tension between a sense of security through formal home-ownership and financial insecurity due to high mortgage costs.  
 
@@ -78,8 +80,10 @@ In a study of Jemo condominium, which houses a large group of residents evicted 
 
 <img src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_Jemo_GIF.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
 <h6><em>In the early 2010s, Jemo was still considered very much on the outskirts and it was one of the major outlying sites ear-marked by the government as part of the Integrated Housing Development Program, before the big move back to the more central neighbourhoods coveted by the upper-middle classes. Jemo was one of the flagship initiatives of the government-backed effort to build an attractive periphery from scratch. It has rapidly become a symbol of social transformation and upward mobility" (Planel & Bridonneau 2017, p.30). Aerial imagery of Arat Kilo and Jemo Block 3 Condominium developments from 2002 through 2025 show that the condominiums on the outskirts were pre-emptively built in anticipation of new residents from the inner city.</em></h6>
+<br>
 
 New condominium residents experienced a loss of social networks and faced increased time and cost barriers for accessing work opportunities in the city center. The condominium sites themselves, resembling post-war European housing blocks, were built with little regard to common cultural use patterns and fostering community gathering. While some condominium sites have developed into lively and bustling neighborhoods, many residents report a sense of loneliness and anonymity from life in the condominiums (Planel & Bridonneau 2017, p. 39). 
+<br>
 
 <h2>ii. addis urbanism ++ aspirations of modernity</h2>
 
@@ -90,6 +94,7 @@ New condominium residents experienced a loss of social networks and faced increa
     <br>
     (Abebe & Hesselberg, 2015, p. 557)
 </div>
+<br>
 
 Prime minister Abiy’s current Dubai-like development attempts at beautifying the inner-city are aimed at attracting foreign capital and diaspora involvement, cementing Addis Ababs legacy as diplomatic capital of Africa (Gardner 2019). Historic informal inner-city neighborhoods stand in the way of the desired vision for Addis Ababa and must therefore give way to skyscrapers and luxury projects (Di Nunzio 2022, p. 5). While this can be understood as a move away from the EPRDF’s pro-poor framing of urban development, it is important to note that despite the pro-poor framing of the IHDP when it was launched in 2005, it still caused the displacement and disposession of thousands of inner-city residents and rural residents in the city’s periphery. Dispossession is thus a continuing modus-operandi of consecutive political regimes. In the case of Addis, it goes hand in hand with the impossibility of criticizing construction projects that promote development. The idea that cities must be particularly modern and globally connected is presented as an indisputable truth, whereby participatory consultations with those affected or considerations of the consequences of displacement and resettlement are dismissed as irrelevant (Hollands 2008). The justification of displacement as a necessary evil for development then and now made way for lucrative industrial and real-estate development.
 
@@ -104,8 +109,10 @@ Prime minister Abiy’s current Dubai-like development attempts at beautifying t
     <br>
     (Fathollazadeh 2025, p. 292)
 </div>
+<br>
 
 Established ideas of what is understood as a modern, progressive and desirable city diametrically contrast African cities. These are positioned as “unplanned, informal, overpopulated, over- or wrongly urbanized, and behind” (Faria & Whitesell 2021, p. 6). In response, imitating globally circulating ideas of a modern city holds the promise of catching up to Western metropolises (Angélil & Hebel 2010, p. 14). When critiqued it is often justified by the response “does Africa not deserve shiny new cities?” and the claim that it is now Africa’s turn to build prosperous and modern cities (Côté-Roy & Moser 2018). The Ethiopian and regional governments in Addis Ababa view infrastructure as a harbinger of change, modernization, and social progress (Larkin 2013, p. 332). It can be argued that the IHDP is a mechanism through which Ethiopia–and in particular, Addis Ababa ”can take part in a contemporaneous modernity by repeating [...] a common visual and conceptual paradigm of what it means to be modern” (Larkin 2013, p. 333). 
+<br>
 
 <h2>iii. expansion ++ displacement</h2>
 
@@ -114,6 +121,7 @@ Established ideas of what is understood as a modern, progressive and desirable c
     <br>
     (Gardner 2017)
 </div>
+<br>
 
 Poor inner-city residents, who have to make way for new construction projects to upgrade the coveted city center, are resettled on the outskirts of the city, where they fulfill a dual role of dispossessed and dispossessors of Oromo land (Di Nunzio 2022, p. 4). In their discussion of frontier-making in Addis Ababa’s periphery Debelo & Soboka discuss peri-urban frontiers as a liminal space between the urban and the rural. The rural here is “perceived as a space that can be “discovered, claimed, tamed, settled, transformed” to be economically productive and culturally modernized by those who claim to be authorized to re-order and dominate the space” (Prout and Howitt 2009, p. 397; Debelo & Soboka 2022, p. 710). In addition, Addis Ababa’s peripheral frontier is conceptualized as “full of resources but empty of people” (Korf et al. 2015 via Debelo & Soboka 2022). Thus legitimizing farmers’ dispossession for more ‘productive’ land-uses in the form of condominiums. 
 
@@ -124,14 +132,17 @@ Poor inner-city residents, who have to make way for new construction projects to
     <br>
     Bula 2020, p. 71)
 </div>
+<br>
 
 However, Addis Ababa’s expansion does not go unchallenged. The announcement of a new masterplan in 2014, which sought to incorporate adjacent towns and villages in Oromia into Addis Ababa proper, was met with massive protests across Oromia state. Protesters fought for a suspension of the plan, which they saw as a tool to legalize the further dispossession of farmers surrounding Addis Ababa. While the masterplan was suspended in January of 2016, protests continued in the following months and reached international attention when during and following ‘Ireecha’ celebrations (Oromo thanksgiving) several hundred were killed due to violent government intervention (Terrefe 2022, p. 9). The subsequent political pressure led Prime Minister Hailemariam Desalegn to resign, who was replaced by Prime Minister Abiy Ahmed in 2019 - heralded as the harbinger of a new political era.
+<br>
 
 <h2>conclusion</h2>
  
 The IHDP has undoubtedly brought with it rapid transformation, both in Addis Ababa’s spatial footprint and in the way residents of the city and its rural periphery experience dispossession, condominium living, and urbanization. The simultaneous transformation of urban space in the center of the city and its newly commodified periphery highlights the dual role that residents evicted from the inner-city hold in peripheral condominiums, as being dispossessed and acting as dispossessor. 
 
 Tying Addis Ababa’s urban development to larger continental, aspirational urbanisms, shows how modernization processes in the center and periphery both on the local level and the global level are inextricably linked. The case of Addis Ababa, challenges us to search for forms of equitable urban development and question the narrative of dispossession as merely a byproduct of development. Instead, we are encouraged to look at how dispossession and displacement are created, why they are maintained and how they manifest spatially. 
+<br>
 
 <h2>v. references</h2>
 
