@@ -63,7 +63,7 @@ Getenet, owns a condominium in Jemo after being evicted from his rental house (k
 (Planel & Bridonneau 2017, p. 36)  
 </div>
 
-<video src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_to_Jemo-Merge.mp4" style="float:center;width:100%;height:auto;" frameborder="0">
+<video src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_to_Jemo-Merge.mp4" style="position:center;width:100%;height:auto;" frameborder="0">
 <h6><em>Left: Rush hour bus commute from Shela in Addis Ababa. Right: The commute from Arat Kilo east of Piassa to Jemo Block 3 Condominiums includes a 25-minute walk to the bus stop and a 45-minute bus ride to the other side of the city.</em></h6>
 
 New condominium residents experienced a loss of social networks and faced increased time and cost barriers for accessing work opportunities in the city center. The condominium sites themselves, resembling post-war European housing blocks, were built with little regard to common cultural use patterns and fostering community gathering. While some condominium sites have developed into lively and bustling neighborhoods, many residents report a sense of loneliness and anonymity from life in the condominiums (Planel & Bridonneau 2017, p. 39). 
