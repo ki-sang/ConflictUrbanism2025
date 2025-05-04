@@ -17,7 +17,7 @@ author: "fennet habte & ki-sang yi"
 
 <h1>housing as <em>expansion/displacement</em> in addis ababa</h1>
 
-<div style="text-align: right"> 
+<div style="text-align: right; width: 80%"> 
     <i>Lydia, a new resident in the Bole Arabsa condominiums: No one comes here [the condominium] and no one goes from here to there [bordering Oromia farmland]. If you want to go over there and mix with them, they won’t even let you near them. People are afraid to go over there. The lands in the city were given to investors, so where do resettlers go? Back to the land of the farmer. The farmer only sees the people settling on his land, he won’t think that the government took the land and built the house and gave it to you, so they don’t like the settlers. Do you understand?</i> <br>
     <br>
     <i>Milkesa, the interviewer: Because they think they came here because they wanted to?</i> <br>
@@ -28,10 +28,9 @@ author: "fennet habte & ki-sang yi"
 </div>
 
 <br>
-***
 <br>
 
-<div style="text-align: right">
+<div style="text-align: right; width: 80%">
     <i>Fanos, a resident in a village across Akaki river: Even if they say that this is the border between Oromia and Finfinnee, we haven’t accepted that. We can’t deny the growth of a city. Growth is natural. When the population grows, so does the size of the city. But the growth should benefit the dwellers of the land as well. For example, they take away 20 hectares of your land and give you a single place on a legal location map. [...] They could provide a better life for the farmer. They could create job opportunities.</i><br>
     <br>
     <i>Milkesa: Most people think this is an urban area. And after 100 or 200 metres the landscape is very rural. The difference between the two is obvious.</i><br>
@@ -62,14 +61,14 @@ The inner-city redevelopments that sought to formalize housing and usher in a ne
 
 In a study of Jemo condominium, which houses a large group of residents evicted from the central Arat Kilo neighborhood, Planel & Bridonneau highlight the tension between a sense of security through formal home-ownership and financial insecurity due to high mortgage costs.  
 
-<div style="text-align: right">
+<div style="text-align: right; width: 80%">
     <i>If I can’t pay the loan, the bank will seize the apartment. My wife and I sometimes think about renting or selling it. I could sell it for 500,000 birr. It originally cost 125,000 birr, but if you add in the interest payments, the apartment cost us 300,000 birr. But I’ll fight to stay here.</i><br>
     <br>
     Getenet, owns a condominium in Jemo after being evicted from his rental house (kebele bet) in Arat Kilo.<br>
     <br>
     (Planel & Bridonneau 2017, p. 36)  
 </div>
-
+<br>
 <video src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_to_Jemo-Merge.mp4" style="position:center;width:100%;height:auto;" frameborder="0">
 <h6><em>Left: Rush hour bus commute from Shela in Addis Ababa. Right: The commute from Arat Kilo east of Piassa to Jemo Block 3 Condominiums includes a 25-minute walk to the bus stop and a 45-minute bus ride to the other side of the city.</em></h6>
 
@@ -77,7 +76,7 @@ New condominium residents experienced a loss of social networks and faced increa
 
 <h2>ii. addis urbanism ++ aspirations of modernity</h2>
 
-<div style="text-align: right">
+<div style="text-align: right; width: 80%">
     *Money is power. Only those who have economic capacity can be heard and have the ‘right’ to live at the centre. But those who do not have power have no chance except to be thrown away outside where no basic facilities are fulfilled.*<br>
     <br>
     Older informant, relocated from the city-center. <br>
@@ -87,7 +86,7 @@ New condominium residents experienced a loss of social networks and faced increa
 
 Prime minister Abiy’s current Dubai-like development attempts at beautifying the inner-city are aimed at attracting foreign capital and diaspora involvement, cementing Addis Ababs legacy as diplomatic capital of Africa (Gardner 2019). Historic informal inner-city neighborhoods stand in the way of the desired vision for Addis Ababa and must therefore give way to skyscrapers and luxury projects (Di Nunzio 2022, p. 5). While this can be understood as a move away from the EPRDF’s pro-poor framing of urban development, it is important to note that despite the pro-poor framing of the IHDP when it was launched in 2005, it still caused the displacement and disposession of thousands of inner-city residents and rural residents in the city’s periphery. Dispossession is thus a continuing modus-operandi of consecutive political regimes. In the case of Addis, it goes hand in hand with the impossibility of criticizing construction projects that promote development. The idea that cities must be particularly modern and globally connected is presented as an indisputable truth, whereby participatory consultations with those affected or considerations of the consequences of displacement and resettlement are dismissed as irrelevant (Hollands 2008). The justification of displacement as a necessary evil for development then and now made way for lucrative industrial and real-estate development.
 
-<div style="text-align: right">
+<div style="text-align: right; width: 80%">
     *Milkesa [Interviewer]: How do the people here see urbanisation?* <br>
     <br>
     *Fanos, resident in a village across Akaki river: No one hates urbanisation as long as we benefit, or our children benefit. We as well as our children would love to change. We didn’t say Finfinnee should not expand, but our needs should be noted.* <br>
@@ -106,15 +105,21 @@ Established ideas of what is understood as a modern, progressive and desirable c
 
 <h2>iii. expansion ++ displacement</h2>
 
-<p style="position:right;"><em>Wrapped in a white shawl and sporting a wide-brimmed cowboy hat, Haile stares out at his cattle as they graze in a rocky patch of grass. “My family and I have been here since I was a child,” he says, nodding at the small, rickety houses to his right. “But we will have to leave soon.” In the distance loom hulking grey towers, casting long shadows over his pasture. This is Koye Feche, a vast construction site on the edge of Addis Ababa that may soon be sub-Saharan Africa’s largest housing project.</em></p>
-
-<p style="position:right;">(Gardner 2017)</p>
+<div style="text-align:right; width: 80%">
+    *Wrapped in a white shawl and sporting a wide-brimmed cowboy hat, Haile stares out at his cattle as they graze in a rocky patch of grass. “My family and I have been here since I was a child,” he says, nodding at the small, rickety houses to his right. “But we will have to leave soon.” In the distance loom hulking grey towers, casting long shadows over his pasture. This is Koye Feche, a vast construction site on the edge of Addis Ababa that may soon be sub-Saharan Africa’s largest housing project.*<br>
+    <br>
+    (Gardner 2017)
+</div>
 
 Poor inner-city residents, who have to make way for new construction projects to upgrade the coveted city center, are resettled on the outskirts of the city, where they fulfill a dual role of dispossessed and dispossessors of Oromo land (Di Nunzio 2022, p. 4). In their discussion of frontier-making in Addis Ababa’s periphery Debelo & Soboka discuss peri-urban frontiers as a liminal space between the urban and the rural. The rural here is “perceived as a space that can be “discovered, claimed, tamed, settled, transformed” to be economically productive and culturally modernized by those who claim to be authorized to re-order and dominate the space” (Prout and Howitt 2009, p. 397; Debelo & Soboka 2022, p. 710). In addition, Addis Ababa’s peripheral frontier is conceptualized as “full of resources but empty of people” (Korf et al. 2015 via Debelo & Soboka 2022). Thus legitimizing farmers’ dispossession for more ‘productive’ land-uses in the form of condominiums. 
 
-<p style="position:right;"><em>We lost the land we inherited from our mothers and fathers. The government officials forced us to sign an agreement of eviction to give up our land for condominium constructions with a compensation payment of 18.50 ETB (0.60 USD) per square meter. [...] Sewerage from the new residential buildings and the city has polluted the stream we used to use for drinking and for our livestock […] We are refused access to the clean water supplied by the city for the residents of the condominiums […] When we try to appeal our case to the government, local officials bribe our few educated coordinators and we cannot move forward with the legal case.</em></p>
-
-<p style="position:right;">(A dispossessed farmer in Oromia via Bula 2020, p. 71)</p>
+<div style="text-align:right; width: 80%">
+    *We lost the land we inherited from our mothers and fathers. The government officials forced us to sign an agreement of eviction to give up our land for condominium constructions with a compensation payment of 18.50 ETB (0.60 USD) per square meter. [...] Sewerage from the new residential buildings and the city has polluted the stream we used to use for drinking and for our livestock […] We are refused access to the clean water supplied by the city for the residents of the condominiums […] When we try to appeal our case to the government, local officials bribe our few educated coordinators and we cannot move forward with the legal case.*<br>
+    <br>
+    A dispossessed farmer in Oromia.<br>
+    <br>
+    Bula 2020, p. 71)
+</div>
 
 However, Addis Ababa’s expansion does not go unchallenged. The announcement of a new masterplan in 2014, which sought to incorporate adjacent towns and villages in Oromia into Addis Ababa proper, was met with massive protests across Oromia state. Protesters fought for a suspension of the plan, which they saw as a tool to legalize the further dispossession of farmers surrounding Addis Ababa. While the masterplan was suspended in January of 2016, protests continued in the following months and reached international attention when during and following ‘Ireecha’ celebrations (Oromo thanksgiving) several hundred were killed due to violent government intervention (Terrefe 2022, p. 9). The subsequent political pressure led Prime Minister Hailemariam Desalegn to resign, who was replaced by Prime Minister Abiy Ahmed in 2019 - heralded as the harbinger of a new political era.
 
