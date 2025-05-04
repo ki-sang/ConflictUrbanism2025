@@ -81,9 +81,6 @@ The inner-city redevelopments that sought to formalize housing and usher in a ne
 </video>
 <h6><em>Left: Rush hour bus commute from Shela in Addis Ababa. Right: The commute from Arat Kilo east of Piassa to Jemo Block 3 Condominiums includes a 25-minute walk to the bus stop and a 45-minute bus ride to the other side of the city.</em></h6>
 
-<video src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_to_Jemo-Merge.mp4" style="position:center;width:100%;height:auto;" frameborder="0">
-<h6><em>Left: Rush hour bus commute from Shela in Addis Ababa. Right: The commute from Arat Kilo east of Piassa to Jemo Block 3 Condominiums includes a 25-minute walk to the bus stop and a 45-minute bus ride to the other side of the city.</em></h6>
-
 In a study of Jemo condominium, which houses a large group of residents evicted from the central Arat Kilo neighborhood, Planel & Bridonneau highlight the tension between a sense of security through formal home-ownership and financial insecurity due to high mortgage costs.  
 
 <div style="text-align: right; width: 80%">
