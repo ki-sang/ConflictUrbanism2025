@@ -16,15 +16,14 @@ author: "fennet habte & ki-sang yi"
 <h1>housing as <em>expansion/displacement</em> in addis ababa</h1>
 
 <div style="text-align: right"> 
-    <i>Lydia, a new resident in the Bole Arabsa condominiums: No one comes here [the condominium] and no one goes from here to there [bordering Oromia farmland]. If you want to go over there and mix with them, they won’t even let you near them. People are afraid to go over there. The lands in the city were given to investors, so where do resettlers go? Back to the land of the farmer. The farmer only sees the people settling on his land, he won’t think that the government took the land and built the house and gave it to you, so they don’t like the settlers. Do you understand?</i>
-    <i>Milkesa, the interviewer: Because they think they came here because they wanted to?</i>
-    <i>Lydia: At the end of the day, the farmers will just think that their land is taken from them by the government so that people from the city can be settled.</i>
-    <i></i>
+    <i>Lydia, a new resident in the Bole Arabsa condominiums: No one comes here [the condominium] and no one goes from here to there [bordering Oromia farmland]. If you want to go over there and mix with them, they won’t even let you near them. People are afraid to go over there. The lands in the city were given to investors, so where do resettlers go? Back to the land of the farmer. The farmer only sees the people settling on his land, he won’t think that the government took the land and built the house and gave it to you, so they don’t like the settlers. Do you understand?</i> <br>
+    <i>Milkesa, the interviewer: Because they think they came here because they wanted to?</i> <br>
+    <i>Lydia: At the end of the day, the farmers will just think that their land is taken from them by the government so that people from the city can be settled.</i><br>
 </div>
 
 <div style="text-align: right">(Fathollahzadeh 2025, p. 300)</div>
 
-***
+<br>
 
 <div style="text-align: right">
     <i>Fanos, a resident in a village across Akaki river: Even if they say that this is the border between Oromia and Finfinnee, we haven’t accepted that. We can’t deny the growth of a city. Growth is natural. When the population grows, so does the size of the city. But the growth should benefit the dwellers of the land as well. For example, they take away 20 hectares of your land and give you a single place on a legal location map. [...] They could provide a better life for the farmer. They could create job opportunities.</i>
@@ -33,7 +32,9 @@ author: "fennet habte & ki-sang yi"
 
 <div style="text-align: right">(Fathollahzadeh 2025, p. 292)</div>
 
-***
+<br>
+
+<img src="/ConflictUrbanism2025/images/Habte_Yi/AddisAbaba-City.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
 
 <h2>i. IHDP ++ addis</h2>
 
@@ -112,8 +113,6 @@ However, Addis Ababa’s expansion does not go unchallenged. The announcement of
 The IHDP has undoubtedly brought with it rapid transformation, both in Addis Ababa’s spatial footprint and in the way residents of the city and its rural periphery experience dispossession, condominium living, and urbanization. The simultaneous transformation of urban space in the center of the city and its newly commodified periphery highlights the dual role that residents evicted from the inner-city hold in peripheral condominiums, as being dispossessed and acting as dispossessor. 
 
 Tying Addis Ababa’s urban development to larger continental, aspirational urbanisms, shows how modernization processes in the center and periphery both on the local level and the global level are inextricably linked. The case of Addis Ababa, challenges us to search for forms of equitable urban development and question the narrative of dispossession as merely a byproduct of development. Instead, we are encouraged to look at how dispossession and displacement are created, why they are maintained and how they manifest spatially. 
-
-<img src="/ConflictUrbanism2025/images/Habte_Yi/AddisAbaba-City.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
 
 <h2>v. references</h2>
 
