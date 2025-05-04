@@ -123,6 +123,8 @@ Established ideas of what is understood as a modern, progressive and desirable c
 </div>
 <br>
 
+<img src="/ConflictUrbanism2025/images/Habte_Yi/Condos-KoyeFeche.jpg" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
+
 Poor inner-city residents, who have to make way for new construction projects to upgrade the coveted city center, are resettled on the outskirts of the city, where they fulfill a dual role of dispossessed and dispossessors of Oromo land (Di Nunzio 2022, p. 4). In their discussion of frontier-making in Addis Ababa’s periphery Debelo & Soboka discuss peri-urban frontiers as a liminal space between the urban and the rural. The rural here is “perceived as a space that can be “discovered, claimed, tamed, settled, transformed” to be economically productive and culturally modernized by those who claim to be authorized to re-order and dominate the space” (Prout and Howitt 2009, p. 397; Debelo & Soboka 2022, p. 710). In addition, Addis Ababa’s peripheral frontier is conceptualized as “full of resources but empty of people” (Korf et al. 2015 via Debelo & Soboka 2022). Thus legitimizing farmers’ dispossession for more ‘productive’ land-uses in the form of condominiums. 
 
 <div style="text-align:right; width: 80%">
@@ -186,8 +188,5 @@ Weldeghebrael, Ezana Haddis. 2022. “The Framing of Inner-City Slum Redevelopme
 <h3>datasets</h3>
 Google Maps. n.d. “Condominiums in Addis Ababa, Ethiopia.”
 
-“Condominiums in Addis Ababa, Ethiopia Retrieved from [Https://Planet.Osm.Org](Https://Planet.Osm.Org).” 2025. Geolocations. [https://www.openstreetmap.org/](https://www.openstreetmap.org/).
-
-
-***REMINDER: To view the structure of your website in Visual Studio Code without having to upload to Github, press the following keys to get a spit-screen view: Ctrl K then V.***
+“Condominiums in Addis Ababa, Ethiopia Retrieved from Https://Planet.Osm.Org.” 2025. Geolocations. https://www.openstreetmap.org/.
 
