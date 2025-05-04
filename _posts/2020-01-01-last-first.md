@@ -47,17 +47,15 @@ The inner-city redevelopments that sought to both formalize housing and usher in
 </div>
 <h6><em>Left: Rush hour bus commute from Shela in Addis Ababa. Right: The commute from Arat Kilo east of Piassa to Jemo Block 3 Condominiums includes a 25-minute walk to the bus stop and a 45-minute bus ride to the other side of the city.</em></h6>
 
+<img src="/conflict_urbanism_sp2025/images/Habte_Yi/AratKilo_Jemo_GIF.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
+<h6><em>Aerial imagery of Arat Kilo and Jemo Block 3 Condominium developments from 2002 through 2025 show that the condominiums on the outskirts were pre-emptively built in anticipation of new residents from the inner city.</em></h6>
+
 <h3>beautifying the inner city</h3>
 
 Inner city beautification has taken on a new coat today with Prime minister Abiy’s Dubai-like development exercises aimed at attracting foreign capital and diaspora involvement, cementing Addis Ababs legacy as diplomatic capital of Africa. While this can be understood as a move away from EPRDF pro-poor framing of urban development, it is important to note that despite the pro-poor policy framing of the condominium project when it was launched by the EPRDF, it still saw the displacement and disposession of thousands of inner-city residents and rural residents in the city’s periphery. The narrative of displacement as a necessary evil for development, which resulted in displaced residents made way for lucrative industrial - and real-estate development, is thus a continuing modus-operandi of consecutive political regimes. 
 
-<img src="/ConflictUrbanism2025/images/Sengatera4060.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
-
-
 <h2>iii. expansion ++ displacement</h2>
-<img src="/ConflictUrbanism2025/images/AddisAbaba-City.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
-
-<img src="/ConflictUrbanism2025/images/BoleArabsa.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
+<img src="/conflict_urbanism_sp2025/images/Habte_Yi/AddisAbaba-City.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
 
 <h2>v. references</h2>
 
