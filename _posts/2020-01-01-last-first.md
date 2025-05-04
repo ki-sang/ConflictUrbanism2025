@@ -28,6 +28,15 @@ author: "fennet habte & ki-sang yi"
 </div>
 
 <br>
+
+&nbsp;<i>Lydia, a new resident in the Bole Arabsa condominiums: No one comes here [the condominium] and no one goes from here to there [bordering Oromia farmland]. If you want to go over there and mix with them, they won’t even let you near them. People are afraid to go over there. The lands in the city were given to investors, so where do resettlers go? Back to the land of the farmer. The farmer only sees the people settling on his land, he won’t think that the government took the land and built the house and gave it to you, so they don’t like the settlers. Do you understand?</i> <br>
+<br>
+&nbsp;<i>Milkesa, the interviewer: Because they think they came here because they wanted to?</i> <br>
+<br>
+&nbsp;<i>Lydia: At the end of the day, the farmers will just think that their land is taken from them by the government so that people from the city can be settled.</i><br>
+<br>
+&nbsp;(Fathollahzadeh 2025, p. 300)
+
 <br>
 
 <div style="text-align: right; width: 80%">
@@ -59,6 +68,9 @@ While the project continues to be successful at increasing formal housing stock,
 
 The inner-city redevelopments that sought to formalize housing and usher in a new era of modern urban development, served both to allow for easier governing of inner-city populations, deemed troublesome, unruly and hotbeds of political dissidents after the 2005 post-election protests, and created an agreeable environment for foreign- and diaspora developers in prime real estate locations (Weldeghebrael 2022, p. 4). The first inner-city site to be re-developed into an IHDP site was in the Lideta neighborhood. According to government officials it was selected due to the belief that “there was a huge concentration of Coalition for Unity and Democracy (CUD) 2005 election campaigners and subsequent protest mobilizers”. Relocations of residents of informal inner-city settlements were conducted with little community input, at times purposefully separating inner-city communities, who had been deemed sites of opposition protest, scattering them across five to twelve different condominiums at the city’s peripheries, severing existing social networks (Weldeghebrael 2022, p. 6). The  strategic spatial dispersion of former inner-city residents deemed troublesome allowed the IHDP to act as a mechanism of enacting control and repress potential future counter-government organizing. 
 
+<video src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_to_Jemo-Merge.mp4" style="position:center;width:100%;height:auto;" frameborder="0">
+<h6><em>Left: Rush hour bus commute from Shela in Addis Ababa. Right: The commute from Arat Kilo east of Piassa to Jemo Block 3 Condominiums includes a 25-minute walk to the bus stop and a 45-minute bus ride to the other side of the city.</em></h6>
+
 In a study of Jemo condominium, which houses a large group of residents evicted from the central Arat Kilo neighborhood, Planel & Bridonneau highlight the tension between a sense of security through formal home-ownership and financial insecurity due to high mortgage costs.  
 
 <div style="text-align: right; width: 80%">
@@ -69,8 +81,9 @@ In a study of Jemo condominium, which houses a large group of residents evicted 
     (Planel & Bridonneau 2017, p. 36)  
 </div>
 <br>
-<video src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_to_Jemo-Merge.mp4" style="position:center;width:100%;height:auto;" frameborder="0">
-<h6><em>Left: Rush hour bus commute from Shela in Addis Ababa. Right: The commute from Arat Kilo east of Piassa to Jemo Block 3 Condominiums includes a 25-minute walk to the bus stop and a 45-minute bus ride to the other side of the city.</em></h6>
+
+<img src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_Jemo_GIF.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
+<h6><em>In the early 2010s, Jemo was still considered very much on the outskirts and it was one of the major outlying sites ear-marked by the government as part of the Integrated Housing Development Program, before the big move back to the more central neighbourhoods coveted by the upper-middle classes. Jemo was one of the flagship initiatives of the government-backed effort to build an attractive periphery from scratch. It has rapidly become a symbol of social transformation and upward mobility" (Planel & Bridonneau 2017, p.30). Aerial imagery of Arat Kilo and Jemo Block 3 Condominium developments from 2002 through 2025 show that the condominiums on the outskirts were pre-emptively built in anticipation of new residents from the inner city.</em></h6>
 
 New condominium residents experienced a loss of social networks and faced increased time and cost barriers for accessing work opportunities in the city center. The condominium sites themselves, resembling post-war European housing blocks, were built with little regard to common cultural use patterns and fostering community gathering. While some condominium sites have developed into lively and bustling neighborhoods, many residents report a sense of loneliness and anonymity from life in the condominiums (Planel & Bridonneau 2017, p. 39). 
 
@@ -99,9 +112,6 @@ Prime minister Abiy’s current Dubai-like development attempts at beautifying t
 </div>
 
 Established ideas of what is understood as a modern, progressive and desirable city diametrically contrast African cities. These are positioned as “unplanned, informal, overpopulated, over- or wrongly urbanized, and behind” (Faria & Whitesell 2021, p. 6). In response, imitating globally circulating ideas of a modern city holds the promise of catching up to Western metropolises (Angélil & Hebel 2010, p. 14). When critiqued it is often justified by the response “does Africa not deserve shiny new cities?” and the claim that it is now Africa’s turn to build prosperous and modern cities (Côté-Roy & Moser 2018). The Ethiopian and regional governments in Addis Ababa view infrastructure as a harbinger of change, modernization, and social progress (Larkin 2013, p. 332). It can be argued that the IHDP is a mechanism through which Ethiopia–and in particular, Addis Ababa ”can take part in a contemporaneous modernity by repeating [...] a common visual and conceptual paradigm of what it means to be modern” (Larkin 2013, p. 333). 
-
-<img src="/ConflictUrbanism2025/images/Habte_Yi/AratKilo_Jemo_GIF.gif" style="float:center; width:100%; height:auto; vertical-align:middle;" frameborder="0">
-<h6><em>Aerial imagery of Arat Kilo and Jemo Block 3 Condominium developments from 2002 through 2025 show that the condominiums on the outskirts were pre-emptively built in anticipation of new residents from the inner city.</em></h6>
 
 <h2>iii. expansion ++ displacement</h2>
 
